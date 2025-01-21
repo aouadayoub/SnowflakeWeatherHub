@@ -1,1 +1,1 @@
-# weather_datawarehousing
+# SnowflakeWeatherHub
